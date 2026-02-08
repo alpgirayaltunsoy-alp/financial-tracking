@@ -275,7 +275,7 @@ Your support helps me:
 
 MIT License
 
-Copyright (c) 2024 ALP GIRAY ALTUNSOY
+Copyright (c) 2026 ALP GIRAY ALTUNSOY
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -321,7 +321,7 @@ SOFTWARE.
 - [ ] Mobile app version
 
 ### Version History
-- **v1.0** (2024) - Initial release
+- **v1.0** (2026) - Initial release
   - Real-time data fetching
   - 15+ technical indicators
   - Portfolio management
