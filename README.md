@@ -70,7 +70,13 @@ py -3.12 -m pip install -r requirements.txt
 py -3.12 financial_analysis_pro.py
 ```
 
-## SUPPORT ME
-If you want support me you can donate me [here](https://www.patreon.com/cw/ALPGALTUNSOY/shop)
+---
 
-Good luck! 🚀
+## 💝 SUPPORT ME
+If you want to support me, you can donate [here](https://www.patreon.com/cw/ALPGALTUNSOY/shop)
+
+Your support helps me create more amazing projects! 🚀
+
+---
+
+Good luck! 🎉
