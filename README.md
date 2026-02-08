@@ -111,7 +111,7 @@ python main.py
 
 1. **Launch the Application**
    ```bash
-   python financial_analysis_pro.py
+   python main.py
    ```
 
 2. **Enter Stock Symbol**
