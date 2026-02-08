@@ -359,7 +359,7 @@ If you like this project, please consider giving it a ⭐!
 
 **Last Updated:** February 2026 
 **Status:** Active Development  
-**Platform:** Windows, macOS, Linux  
+**Platform:** Windows
 **Language:** Python 3.11+
 
 ---
