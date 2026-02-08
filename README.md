@@ -8,7 +8,7 @@
 ---
 
 ## 👨‍💻 Project Owner
-**ALP GALTUNŞOY**
+**ALP GIRAY ALTUNSOY**
 
 🔗 Support & Donate: [Patreon Shop](https://www.patreon.com/cw/ALPGALTUNSOY/shop)
 
@@ -260,7 +260,7 @@ Your support helps me:
 
 ## 📧 Contact
 
-**Project Owner:** ALP GALTUNŞOY
+**Project Owner:** ALP GIRAY ALTUNSOY
 
 - 💬 For questions, suggestions, or feedback
 - 🐛 To report bugs or issues
@@ -275,7 +275,7 @@ Your support helps me:
 
 MIT License
 
-Copyright (c) 2024 ALP GALTUNŞOY
+Copyright (c) 2024 ALP GIRAY ALTUNSOY
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -345,7 +345,7 @@ If you like this project, please consider giving it a ⭐!
 
 ---
 
-**Made with ❤️ by ALP GALTUNŞOY**
+**Made with ❤️ by ALP GIRAY ALTUNSOY**
 
 *Empowering traders with professional analysis tools* 🚀
 
